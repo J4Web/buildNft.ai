@@ -7,3 +7,4 @@ This is a dapp which using huggingface api to generate a promoted picture and th
  3-Ether.js
  4- Spehron
  5- HuggingFace API
+ 6- NFT.Storage
