@@ -8,3 +8,4 @@ This is a dapp which using huggingface api to generate a promoted picture and th
  4- Spehron
  5- HuggingFace API
  6- NFT.Storage
+ 7- Node
