@@ -11,7 +11,6 @@ This is a dapp which using huggingface api to generate a promoted picture and th
  7- Nodejs
  8- JavaScript
 
-
 #Youtube 
 https://youtu.be/TpGP2ba41Sc?si=IIBfR1M8chns8ma3
 
